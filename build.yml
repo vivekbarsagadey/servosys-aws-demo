@@ -3,6 +3,7 @@ phases:
     build:
         commands:
             - npm i --save
+            - npm run 
 artifacts:
     files:
         - '**/*'
